@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1463472532 source:c:\users\michael\documents\ship\main.cpp
+	<iostream>
+	"Ship.h"
+	"CruiseShip.h"
+
+1463472301 c:\users\michael\documents\ship\include\ship.h
+	<iostream>
+
+1463472410 source:c:\users\michael\documents\ship\src\ship.cpp
+	<iostream>
+	"Ship.h"
+
+1463472379 source:c:\users\michael\documents\ship\src\cruiseship.cpp
+	"CruiseShip.h"
+	<iostream>
+
+1463472301 c:\users\michael\documents\ship\include\cruiseship.h
+	<string>
+	<iostream>
+	"Ship.h"
+
+1463523930 source:c:\users\admin\documents\ship\main.cpp
+	<iostream>
+	"Ship.h"
+	"CruiseShip.h"
+	"CargoShip.h"
+
+1463523957 source:c:\users\admin\documents\ship\src\cruiseship.cpp
+	"CruiseShip.h"
+	<iostream>
+
+1463523975 source:c:\users\admin\documents\ship\src\ship.cpp
+	<iostream>
+	"Ship.h"
+
+1463523715 c:\users\admin\documents\ship\include\ship.h
+	<iostream>
+
+1463523715 c:\users\admin\documents\ship\include\cruiseship.h
+	<string>
+	<iostream>
+	"Ship.h"
+
+1463523097 source:c:\users\admin\documents\ship\src\cargoship.cpp
+	"CargoShip.h"
+	<iostream>
+
+1463523715 c:\users\admin\documents\ship\include\cargoship.h
+	<string>
+	<iostream>
+	"Ship.h"
+
